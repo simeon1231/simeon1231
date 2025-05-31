@@ -9,20 +9,23 @@
 ## Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel,python,java,tailwind,springboot,nest,symfony,django,.net, graphql, wordpress,aws,mysql,postgresql,openai,cypress,jest,php,c#,mocha,jest,redis,rabbitmq" />
+    <img src="https://skillicons.dev/icons?  i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel,python,java,nest,symfony,django,graphql,wordpress,aws,mysql,postgresql,cypress,jest,php,c#,mocha,jest,redis,rabbitmq" />
   </a>
 
 <br />
 <br />
 - 👯 I’m open to collaboration on impactful open-source
+<br />
 - 💬 Ask me about anything tech
+<br />
 - 😄 Pronouns: he/him
+<br />
 - ⚡ Fun fact: I love computer games 🥳
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEV&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mybuddy4305&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyiguo&theme=radical)
 
 ## Top Languages
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
+<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=mybuddy4305&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
