@@ -24,10 +24,3 @@
 <br />
 - ⚡ Fun fact: I love computer games 🥳
 
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mybuddy4305&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinyiguo&theme=radical)
-
-## Top Languages
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=mybuddy4305&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
