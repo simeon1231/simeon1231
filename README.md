@@ -1,7 +1,7 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 
-<h1 align="center">Hello, ladies and gentlemen</h1>
-<h2 align="center">a passionate senior Full Stack Engineer</h2>
+<h1 align="center">Hello, Ladies and Gentlemen</h1>
+<h2 align="center">A passionate Senior Full Stack Engineer</h2>
 <!-- <p align="center" > -->
  Senior Full-Stack Engineer & WordPress Developer with 10+ years of experience creating scalable SaaS, AI-enhanced platforms, and multilingual content systems. Expert in React, Node.js, Spring Boot, and headless WordPress with deep cloud-native experience across AWS. Proven success in building high-performance applications with modern DevOps, LLM integration (GPT-4, LangChain), and eCommerce architecture (WooCommerce, Stripe). Known for delivering reliable solutions at scale, mentoring teams, and driving innovation with impact.
 </p>
@@ -9,7 +9,7 @@
 ## Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?  i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel,python,java,nest,symfony,django,graphql,wordpress,aws,mysql,postgresql,cypress,jest,php,c#,mocha,jest,redis,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel,python,java,nest,symfony,django,graphql,wordpress,aws,mysql,postgresql,cypress,jest,php,c#,mocha,jest,redis" />
   </a>
 
 <br />
