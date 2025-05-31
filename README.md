@@ -1,7 +1,7 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 <br />
 <br />
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif&quot; width="30px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif&quot; width="30px">
 <h1 align="center">Thank you for your visit!</h1>
 <!-- <p align="center" > -->
  I'm a Senior Full-Stack Engineer & WordPress Developer with 10+ years of experience creating scalable SaaS, AI-enhanced platforms, and multilingual content systems. Expert in React, Node.js, Spring Boot, and headless WordPress with deep cloud-native experience across AWS. Proven success in building high-performance applications with modern DevOps, LLM integration (GPT-4, LangChain), and eCommerce architecture (WooCommerce, Stripe). Known for delivering reliable solutions at scale, mentoring teams, and driving innovation with impact.
