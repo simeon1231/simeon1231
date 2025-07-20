@@ -23,5 +23,5 @@ FinTech and E-commerce industries. Skilled in developing end-to-end platforms us
 <br />
 - 😄 Pronouns: he/him
 <br />
-- ⚡ Fun fact: Reading, Sports, Film, Computer Games 🥳
+- ⚡ Fun fact: Singing, Reading, Sports, Film, Computer Games 🥳
 
